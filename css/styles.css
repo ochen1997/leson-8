@@ -1,12 +1,14 @@
+table {
+    font-family:  'Ubuntu', sans-serif;
+}
 
- 
  th {
     border: 1px solid grey;
     font-size: 2rem;
     padding: 10px;
     color: white;
     background-color: #58c2be;
-    font-family:  'Ubuntu', sans-serif;;
+    font-family:  'Ubuntu', sans-serif;
 }
 
 td {
